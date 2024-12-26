@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/k-hroma/FrontendMentorJunior/tree/main/TestimonialsGrid]
-- Live Site URL: [https://k-hroma.github.io/FrontendMentorJunior/TestimonialsGrid/]
+- Solution URL: [https://github.com/k-hroma/TestimonialsGridSection.git]
+- Live Site URL: [https://k-hroma.github.io/TestimonialsGridSection/]
 
 ## My process
 
